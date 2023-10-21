@@ -1,0 +1,12 @@
+---
+title: "Dplyr"
+author: "Adrien Bouisson"
+format: html
+editor: visual
+---
+
+```{r}
+here::i_am("Adrien Bouisson.Rproj")
+library(here)
+library(dplyr)
+```
